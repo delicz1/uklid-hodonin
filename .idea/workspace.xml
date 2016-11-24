@@ -1,60 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee52f26-d5f7-4c24-bf52-45eecc14d5d8" name="Default" comment="zmena adresarove struktury">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/files/assets/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="$PROJECT_DIR$/files/assets/css/ie8.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/files/assets/css/ie9.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/bg01.png" afterPath="$PROJECT_DIR$/files/assets/css/images/bg01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/bg02.png" afterPath="$PROJECT_DIR$/files/assets/css/images/bg02.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/images/bg03.png" afterPath="$PROJECT_DIR$/files/assets/css/images/bg03.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/files/assets/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/files/assets/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/files/assets/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/files/assets/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/files/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/files/assets/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/files/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" afterPath="$PROJECT_DIR$/files/assets/js/ie/PIE.htc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/files/assets/js/ie/backgroundsize.min.htc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="$PROJECT_DIR$/files/assets/js/ie/html5shiv.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="$PROJECT_DIR$/files/assets/js/ie/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.dropotron.min.js" afterPath="$PROJECT_DIR$/files/assets/js/jquery.dropotron.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/files/assets/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/files/assets/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/my.js" afterPath="$PROJECT_DIR$/files/assets/js/my.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/files/assets/js/skel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/files/assets/js/util.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="$PROJECT_DIR$/files/assets/sass/ie8.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/files/assets/sass/ie9.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_functions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_skel.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_vars.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/files/assets/sass/main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Security.jpg" afterPath="$PROJECT_DIR$/files/images/Security.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Vysavac.jpg" afterPath="$PROJECT_DIR$/files/images/Vysavac.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/files/images/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/lopata.jpg" afterPath="$PROJECT_DIR$/files/images/lopata.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="$PROJECT_DIR$/files/images/pic01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="$PROJECT_DIR$/files/images/pic02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="$PROJECT_DIR$/files/images/pic03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pic04.jpg" afterPath="$PROJECT_DIR$/files/images/pic04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/sekacka.jpg" afterPath="$PROJECT_DIR$/files/images/sekacka.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uklidHodonin.iml" afterPath="$PROJECT_DIR$/.idea/uklidHodonin.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/car-clean.html" afterPath="$PROJECT_DIR$/car-clean.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/garden-cut.html" afterPath="$PROJECT_DIR$/garden-cut.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home-clean.html" afterPath="$PROJECT_DIR$/home-clean.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/left-sidebar.html" afterPath="$PROJECT_DIR$/left-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/no-sidebar.html" afterPath="$PROJECT_DIR$/no-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/right-sidebar.html" afterPath="$PROJECT_DIR$/right-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security.html" afterPath="$PROJECT_DIR$/security.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snow-clean.html" afterPath="$PROJECT_DIR$/snow-clean.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/two-sidebar.html" afterPath="$PROJECT_DIR$/two-sidebar.html" />
+    <list default="true" id="8ee52f26-d5f7-4c24-bf52-45eecc14d5d8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/js/ie/backgroundsize.min.htc" afterPath="$PROJECT_DIR$/files/assets/js/ie/backgroundsize.min.htc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/js/jquery.dropotron.min.js" afterPath="$PROJECT_DIR$/files/assets/js/jquery.dropotron.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/js/main.js" afterPath="$PROJECT_DIR$/files/assets/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/js/skel.min.js" afterPath="$PROJECT_DIR$/files/assets/js/skel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/js/util.js" afterPath="$PROJECT_DIR$/files/assets/js/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/files/assets/sass/ie9.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/sass/libs/_functions.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_functions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/sass/libs/_mixins.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/sass/libs/_skel.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_skel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/files/assets/sass/libs/_vars.scss" />
     </list>
     <ignored path="uklidHodonin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -542,12 +499,20 @@
       <workItem from="1479490531576" duration="1636000" />
       <workItem from="1479496600686" duration="3939000" />
       <workItem from="1479846801941" duration="4588000" />
-      <workItem from="1479986062083" duration="1369000" />
+      <workItem from="1479986062083" duration="1651000" />
     </task>
+    <task id="LOCAL-00001" summary="zmena adresarove struktury">
+      <created>1479988230014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479988230014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11532000" />
+    <option name="totallyTimeSpent" value="11814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1922" height="1057" extended-state="6" />
