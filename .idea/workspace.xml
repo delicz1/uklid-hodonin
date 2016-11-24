@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ee52f26-d5f7-4c24-bf52-45eecc14d5d8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uklidHodonin.iml" afterPath="$PROJECT_DIR$/.idea/uklidHodonin.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/security.html" afterPath="$PROJECT_DIR$/security.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snow-clean.html" afterPath="$PROJECT_DIR$/snow-clean.html" />
     </list>
     <ignored path="uklidHodonin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -320,7 +317,7 @@
       <workItem from="1479496600686" duration="3939000" />
       <workItem from="1479846801941" duration="5143000" />
       <workItem from="1480015287954" duration="80000" />
-      <workItem from="1480015392770" duration="1333000" />
+      <workItem from="1480015392770" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="doplneni textu">
       <created>1479851420810</created>
@@ -329,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479851420811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="doplneni textu">
+      <created>1480016729297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480016729297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12131000" />
+    <option name="totallyTimeSpent" value="12139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1922" height="1057" extended-state="6" />
